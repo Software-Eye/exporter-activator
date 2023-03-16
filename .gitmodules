@@ -1,0 +1,4 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/Software-Eye/common.git
+	branch = master

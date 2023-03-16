@@ -1,1 +1,2 @@
 rootProject.name = 'exporter-activator'
+include 'common'
